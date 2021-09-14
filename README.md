@@ -37,15 +37,15 @@ My code has been tested with python 3.6, tensorflow 1.13.0, CUDA 11.3 on Window1
 I used the cityscapes-dataset
 When using the provided data make sure to respect the cityscapes-dataset license. 
 
-⊙ https://www.cityscapes-dataset.com/
-⊙ The cityscapes dataset for semantic urban understanding, arXiv: 1604.01685
++⊙ https://www.cityscapes-dataset.com/
++⊙ The cityscapes dataset for semantic urban understanding, arXiv: 1604.01685
 
 Below is the complete set of training data. Download it into the data/ forder 
 
 + https://drive.google.com/open?
 + [구글드라이브](https://drive.google.com/drive/folders/1qWLE0xiz51r5drrGwwFTFjmwste0cuEH)
 
-⊙data directory:
++⊙data directory:
 <pre><code>
   cityscapes
       |-------leftImg8bit---train
