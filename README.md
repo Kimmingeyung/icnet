@@ -6,12 +6,12 @@ ICNet for RT Semantic Segmentation (ECCV_2018)
 
 if you use this code for your research, please consider citing:
 
-  <pre><code>{@inProceedings{
+  <pre><code>@inProceedings{
       title={ICNet for Real-Time Semantic Segmentation on High-Resolution Images},
       author={Hengshuang Zhao1, Xiaojuan Qi1, Xiaoyong Shen2, Jianping Shi3, Jiaya Jia1,2},
       booktitle={ECCV},
       year={2018}
-   }}</code></pre>
+   }</code></pre>
   
 
 # Project Page
@@ -36,7 +36,7 @@ My code has been tested with python 3.6, tensorflow 1.13.0, CUDA 11.3 on Window1
 -------------------------------------------------------------------------------------------------------
 # Training
 -------------------------------------------------------------------------------------------------------
-  <code> python train.py </code>
+  <pre><code> python train.py </code></pre>
 
 You can change the training data, learning rate and other parameters by editing train.py
 The total number of training epochs is 100 ; learning rate is initialized as 1e-3
