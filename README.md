@@ -6,12 +6,13 @@ ICNet for RT Semantic Segmentation (ECCV_2018)
 
 if you use this code for your research, please consider citing:
 
-  >>@inProceedings{
-    title={ICNet for Real-Time Semantic Segmentation on High-Resolution Images},
-    author={Hengshuang Zhao1, Xiaojuan Qi1, Xiaoyong Shen2, Jianping Shi3, Jiaya Jia1,2},
-    booktitle={ECCV},
-    year={2018}
-   }>>
+  <pre><code>{@inProceedings{
+      title={ICNet for Real-Time Semantic Segmentation on High-Resolution Images},
+      author={Hengshuang Zhao1, Xiaojuan Qi1, Xiaoyong Shen2, Jianping Shi3, Jiaya Jia1,2},
+      booktitle={ECCV},
+      year={2018}
+   }}</code></pre>
+  
 
 # Project Page
 -------------------------------------------------------------------------------------------------------
