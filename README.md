@@ -35,7 +35,8 @@ My code has been tested with python 3.6, tensorflow 1.13.0, CUDA 11.3 on Window1
 -------------------------------------------------------------------------------------------------------
 # Training
 -------------------------------------------------------------------------------------------------------
-  <code>python train.py</code>
+  <code> python train.py </code>
+
 You can change the training data, learning rate and other parameters by editing train.py
 The total number of training epochs is 100 ; learning rate is initialized as 1e-3
 and training epoch of 100 with linear decay after 50 epoches
