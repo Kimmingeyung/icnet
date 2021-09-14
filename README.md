@@ -42,8 +42,8 @@ When using the provided data make sure to respect the cityscapes-dataset license
 
 Below is the complete set of training data. Download it into the data/ forder 
 
-⊙ https://drive.google.com/open?
-⊙ [구글드라이브](https://drive.google.com/drive/folders/1qWLE0xiz51r5drrGwwFTFjmwste0cuEH)
++ https://drive.google.com/open?
++ [구글드라이브](https://drive.google.com/drive/folders/1qWLE0xiz51r5drrGwwFTFjmwste0cuEH)
 
 ⊙data directory:
 <pre><code>
