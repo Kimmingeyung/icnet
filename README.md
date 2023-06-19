@@ -43,7 +43,7 @@ When using the provided data make sure to respect the cityscapes-dataset license
 Below is the complete set of training data. Download it into the data/ forder 
 
 + <https://drive.google.com/drive/folders/1Wjr7-V0QZMTd-yDf_IuoJ0sYoRTDfyBW?usp=sharing>
-+ [구글드라이브](https://drive.google.com/drive/folders/1qWLE0xiz51r5drrGwwFTFjmwste0cuEH-)
++ [구글드라이브](https://drive.google.com/file/d/1gPceKdCB3imfhwGxCJmZrRHvtOwH2l4_/view?usp=drive_link)
 
 + data directory:
 <pre><code>
@@ -67,6 +67,7 @@ and training epoch of 100 with linear decay after 50 epoches
 # Contact 
 -------------------------------------------------------------------------------------------------------
 Kim Min Geyung 
+Email: muzzcats@naver.com
 
 
 # License 
