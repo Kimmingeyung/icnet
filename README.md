@@ -3,6 +3,8 @@
 This repository contains the TensorFlow implementation for the following paper
 
 ICNet for RT Semantic Segmentation (ECCV_2018)
+<img src="image/Work10.jpg">
+
 
 if you use this code for your research, please consider citing:
 
@@ -62,8 +64,8 @@ and training epoch of 100 with linear decay after 50 epoches
 
 # Evaluation
 -------------------------------------------------------------------------------------------------------
-output image:
-<img src="image/Work10.jpg">
+
+
 
 
 # Statement
